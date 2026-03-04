@@ -21,7 +21,7 @@ External Requirements:
   - If want to write Golang, you will need `go`
   - etc.
 
-### Install With Wazath's Config
+### Install using the Config
 
 Neovim's configurations are located under the following paths, depending on your OS:
 
